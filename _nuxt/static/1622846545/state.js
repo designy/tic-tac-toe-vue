@@ -1,0 +1,1 @@
+window.__NUXT__=(function(a,b){return {staticAssetsBase:"\u002Ftic-tac-toe-vue\u002F_nuxt\u002Fstatic\u002F1622846545",layout:"default",error:b,state:{xWon:a,oWon:a,equal:a},serverRendered:true,routePath:"\u002F",config:{_app:{basePath:"\u002Ftic-tac-toe-vue\u002F",assetsPath:"\u002Ftic-tac-toe-vue\u002F_nuxt\u002F",cdnURL:b}}}}(0,null));
