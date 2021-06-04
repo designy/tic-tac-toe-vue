@@ -38,6 +38,6 @@
     "node_modules"
   ],
   "files": [
-      "./src/vue-shims.d.ts",
+      "./src/vue-shims.d.ts"
   ]
 }
