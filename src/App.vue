@@ -66,7 +66,7 @@ export default defineComponent({
 </script>
 <style lang="scss">
 * {
-  font-family: "IRANSans", Avenir, Helvetica, Arial, sans-serif;
+  font-family: "Almarai", Avenir, Helvetica, Arial, sans-serif;
 }
 #app {
   -webkit-font-smoothing: antialiased;
