@@ -14,7 +14,7 @@ export default {
   },
 
   // Global CSS: https://go.nuxtjs.dev/config-css
-  css: [],
+  css: ['~/assets/styles/font.scss'],
   router: {
     base: '/tic-tac-toe-vue/',
   },

@@ -200,9 +200,8 @@
 </template>
 
 <style lang="scss">
-@import url(//fonts.googleapis.com/css?family=Almarai);
 html {
-  font-family: 'Almarai', 'Source Sans Pro', -apple-system, BlinkMacSystemFont,
+  font-family: IRANSans, 'Source Sans Pro', -apple-system, BlinkMacSystemFont,
     'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
   font-size: 16px;
   word-spacing: 1px;
