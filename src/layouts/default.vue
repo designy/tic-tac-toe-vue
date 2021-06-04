@@ -81,12 +81,12 @@
             <div class="flex-shrink-0 flex items-center">
               <img
                 class="block lg:hidden h-8 w-auto"
-                src="/logo.png"
+                src="/tic-tac-toe-vue/logo.png"
                 alt="vue"
               />
               <img
                 class="hidden lg:block h-8 w-auto ml-3"
-                src="/logo.png"
+                src="/tic-tac-toe-vue/logo.png"
                 alt="vue"
               />
             </div>
