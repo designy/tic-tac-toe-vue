@@ -1,4 +1,4 @@
-# tic
+# tic tac toe in vue2
 
 ## Build Setup
 
